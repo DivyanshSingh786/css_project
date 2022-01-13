@@ -2,7 +2,7 @@
   "name": "divyansh-project-1",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000C\u0000S\u0000S\u0000_\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000b\u0000a\u0000s\u0000i\u0000c\u0000_\u0000t\u0000e\u0000m\u0000p\u0000l\u0000a\u0000t\u0000e\u0000\r\u0000 \u0000",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DivyanshSingh786/css_project.git"
   },
-  "author": "",
+  "author": "Divyansh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DivyanshSingh786/css_project/issues"
